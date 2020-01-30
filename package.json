@@ -1,27 +1,4 @@
 {
-  "_from": "react-custom-cardnsit89@^0.1.0",
-  "_id": "react-custom-cardnsit89@0.1.0",
-  "_inBundle": false,
-  "_integrity": "sha512-mfxnzfphDFAEFn3b15tUHrYhFozGhX1klfIPghtFIAfCQ+3Fm/dFzk+JzleLiMHwP561x+0Hcv7+0VqtL5iuMg==",
-  "_location": "/react-custom-cardnsit89",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "range",
-    "registry": true,
-    "raw": "react-custom-cardnsit89@^0.1.0",
-    "name": "react-custom-cardnsit89",
-    "escapedName": "react-custom-cardnsit89",
-    "rawSpec": "^0.1.0",
-    "saveSpec": null,
-    "fetchSpec": "^0.1.0"
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/react-custom-cardnsit89/-/react-custom-cardnsit89-0.1.0.tgz",
-  "_shasum": "928181da7dfb7eb6a1c5150cf38bbfa8f01c305e",
-  "_spec": "react-custom-cardnsit89@^0.1.0",
-  "_where": "/Users/b0207296/Desktop/react-custom-car",
   "babel": {
     "presets": [
       "@babel/preset-react"
