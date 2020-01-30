@@ -3,7 +3,7 @@ import './card.css';
 
 const Card = props => {
   return React.createElement("div", {
-    className: "card1"
+    className: "card2"
   }, props.children);
 };
 
